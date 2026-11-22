@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.3",
   "release_date": "22/11/2026",
-  "title": "WoW AdonnES v1.0.4",
-  "changelog": "Actualización v1.0.4 definitiva: Erradicación completa de cuadros negros al desminimizar mediante sincronización de pintado real update(), desactivación de animación rota DWM y lista ultraligera.",
-  "download_url": "https://github.com/tutosyoutu/WoW-AdonnES-App/releases/download/v1.0.4/WoW_AdonnES_v1.0.4.zip"
+  "title": "WoW AdonnES v1.0.3",
+  "changelog": "Actualización v1.0.3: reordenamiento visual de addons con actualización disponible arriba del todo en Mis AddOns, botón limpio Traducir con contador dinámico inferior, y traducción inmediata para adaptadores oficiales.",
+  "download_url": "https://github.com/tutosyoutu/WoW-AdonnES-App/releases/download/v1.0.3/WoW_AdonnES_v1.0.3.zip"
 }
