@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "release_date": "22/11/2026",
-  "title": "WoW AdonnES v1.0.1",
-  "changelog": "Versión 1.0.1: orden de 5 niveles con preselección automática, soporte de fábrica para ForeverLevelingBiS y filtro estricto sin falsos positivos, optimización de CurseForge y adaptadores integrados.",
-  "download_url": "https://github.com/tutosyoutu/WoW-AdonnES-App/releases/download/v1.0.1/WoW_AdonnES_v1.0.1.zip"
+  "title": "WoW AdonnES v1.0.2",
+  "changelog": "Actualización v1.0.2: los addons con actualizaciones ahora se muestran arriba del todo en 'Mis AddOns', botón de traducción limpio '🌐 Traducir' con contador interactivo inferior, traducción inmediata para adaptadores oficiales y aviso con botón de reporte para experimentales, y optimización integral del sistema de ventanas para erradicar tirones y parpadeos negros al minimizar.",
+  "download_url": "https://github.com/tutosyoutu/WoW-AdonnES-App/releases/download/v1.0.2/WoW_AdonnES_v1.0.2.zip"
 }
