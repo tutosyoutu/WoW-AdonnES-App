@@ -1,7 +1,7 @@
 {
-  "version": "1.0",
-  "release_date": "20/11/2026",
-  "title": "WoW AdonnES v1.0",
-  "changelog": "Versión oficial 1.0: nuevo motor experimental con búsqueda profunda en subcarpetas y filtro de combate, botones reactivos con iluminación de estado, contador de traducción corregido y accesos directos con icono oficial.",
-  "download_url": "https://github.com/tutosyoutu/WoW-AdonnES-App/releases/download/v1.0/WoW_AdonnES_v1.0.zip"
+  "version": "1.0.1",
+  "release_date": "22/11/2026",
+  "title": "WoW AdonnES v1.0.1",
+  "changelog": "Versión 1.0.1: orden de 5 niveles con preselección automática, soporte de fábrica para ForeverLevelingBiS y filtro estricto sin falsos positivos, optimización de CurseForge y adaptadores integrados.",
+  "download_url": "https://github.com/tutosyoutu/WoW-AdonnES-App/releases/download/v1.0.1/WoW_AdonnES_v1.0.1.zip"
 }
