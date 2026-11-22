@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.1",
   "release_date": "22/11/2026",
-  "title": "WoW AdonnES v1.0.2",
-  "changelog": "Versión 1.0.2: Corrección definitiva de clasificación de fábrica para ForeverLevelingBiS (Grupo 5 al final del todo), auto-inyección de locales en español si faltan y actualización dinámica del botón de traducción.",
-  "download_url": "https://github.com/tutosyoutu/WoW-AdonnES-App/releases/download/v1.0.2/WoW_AdonnES_v1.0.2.zip"
+  "title": "WoW AdonnES v1.0.1",
+  "changelog": "Versión 1.0.1: orden de 5 niveles con preselección automática, soporte de fábrica para ForeverLevelingBiS y filtro estricto sin falsos positivos, optimización de CurseForge y adaptadores integrados.",
+  "download_url": "https://github.com/tutosyoutu/WoW-AdonnES-App/releases/download/v1.0.1/WoW_AdonnES_v1.0.1.zip"
 }
