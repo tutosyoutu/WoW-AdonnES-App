@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "release_date": "23/11/2026",
-  "title": "WoW AdonnES v1.0.5",
-  "changelog": "Traducci\u00f3n autom\u00e1tica inteligente en CurseForge: al buscar por texto se traducen al espa\u00f1ol los 5 primeros resultados de inmediato.",
-  "download_url": "https://github.com/tutosyoutu/WoW-AdonnES-App/releases/download/v1.0.5/WoW_AdonnES_v1.0.5_Update.zip"
+  "title": "WoW AdonnES v1.0.6",
+  "changelog": "Traducci\u00f3n ultraveloz en CurseForge: balanceo en paralelo real a trav\u00e9s de las 3 APIs de Gemini para los 6 primeros resultados.",
+  "download_url": "https://github.com/tutosyoutu/WoW-AdonnES-App/releases/download/v1.0.6/WoW_AdonnES_v1.0.6_Update.zip"
 }
