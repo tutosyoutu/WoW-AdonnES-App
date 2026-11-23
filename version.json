@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "release_date": "23/11/2026",
-  "title": "WoW AdonnES v1.0.2",
-  "changelog": "Correcci\u00f3n de tama\u00f1o y ajuste din\u00e1mico en los botones principales. Estabilidad mejorada al redimensionar la ventana.",
-  "download_url": "https://github.com/tutosyoutu/WoW-AdonnES-App/releases/download/v1.0.2/WoW_AdonnES_v1.0.2_Update.zip"
+  "title": "WoW AdonnES v1.0.3",
+  "changelog": "Ajuste din\u00e1mico integral en la barra de acciones y botones principales. Protecci\u00f3n total de iconos y textos en ventanas estrechas.",
+  "download_url": "https://github.com/tutosyoutu/WoW-AdonnES-App/releases/download/v1.0.3/WoW_AdonnES_v1.0.3_Update.zip"
 }
