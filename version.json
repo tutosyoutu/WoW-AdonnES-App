@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "release_date": "23/11/2026",
-  "title": "WoW AdonnES v1.0.7",
-  "changelog": "Velocidad ultrarr\u00e1pida: correcci\u00f3n de llamada a gemini-3.5-flash-lite (se elimina bloqueo de 35s) y balanceo real en 3 APIs.",
-  "download_url": "https://github.com/tutosyoutu/WoW-AdonnES-App/releases/download/v1.0.7/WoW_AdonnES_v1.0.7_Update.zip"
+  "title": "WoW AdonnES v1.0.8",
+  "changelog": "Traducci\u00f3n ultraveloz en CurseForge: 1 addon por API en paralelo exclusivo para los 3 primeros resultados.",
+  "download_url": "https://github.com/tutosyoutu/WoW-AdonnES-App/releases/download/v1.0.8/WoW_AdonnES_v1.0.8_Update.zip"
 }
