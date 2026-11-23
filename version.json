@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "release_date": "22/11/2026",
-  "title": "WoW AdonnES v1.0.3",
-  "changelog": "Actualización v1.0.3: reordenamiento visual de addons con actualización disponible arriba del todo en Mis AddOns, botón limpio Traducir con contador dinámico inferior, y traducción inmediata para adaptadores oficiales.",
-  "download_url": "https://github.com/tutosyoutu/WoW-AdonnES-App/releases/download/v1.0.3/WoW_AdonnES_v1.0.3.zip"
+  "version": "1.0.0",
+  "release_date": "23/11/2026",
+  "title": "WoW AdonnES v1.0.0 (Lanzamiento Oficial Qt6)",
+  "changelog": "Lanzamiento oficial de WoW AdonnES v1.0.0 con motor nativo PySide6 / Qt6, aceleración por GPU, gestión de addons de CurseForge en 1 clic y traducción en tiempo real con IA Gemini.",
+  "download_url": "https://github.com/tutosyoutu/WoW-AdonnES-App/releases/download/v1.0.0/WoW-AdonnES-Setup-v1.0.0.exe"
 }
