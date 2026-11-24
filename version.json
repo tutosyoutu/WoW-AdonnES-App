@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "release_date": "24/11/2026",
-  "title": "WoW AdonnES v1.0.9",
-  "changelog": "Incorporadas 2 nuevas claves al pool de IA (5 APIs en total) manteniendo la traducción automática rápida de los 3 primeros resultados.",
-  "download_url": "https://github.com/tutosyoutu/WoW-AdonnES-App/releases/download/v1.0.9/WoW_AdonnES_v1.0.9_Update.zip"
+  "title": "WoW AdonnES v1.0.10",
+  "changelog": "Corrección crítica de concurrencia: hilos protegidos contra recolección de basura y migración a QImage thread-safe, eliminando crasheos al arrastrar o mover ventanas mientras cargan addons.",
+  "download_url": "https://github.com/tutosyoutu/WoW-AdonnES-App/releases/download/v1.0.10/WoW_AdonnES_v1.0.10_Update.zip"
 }
