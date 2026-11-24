@@ -2,7 +2,7 @@
 
 **Traductor inteligente y gestor de addons de World of Warcraft al Español.**
 
-[![Versión](https://img.shields.io/badge/Versi%C3%B3n-1.0.10-blue?style=for-the-badge)](https://github.com/tutosyoutu/WoW-AdonnES-App/releases/latest)
+[![Versión](https://img.shields.io/badge/Versi%C3%B3n-1.0.11-blue?style=for-the-badge)](https://github.com/tutosyoutu/WoW-AdonnES-App/releases/latest)
 [![Plataforma](https://img.shields.io/badge/Plataforma-Windows%2010%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/tutosyoutu/WoW-AdonnES-App/releases/latest)
 [![Idioma](https://img.shields.io/badge/Idioma-Espa%C3%B1ol%20(esES)-gold?style=for-the-badge)](https://github.com/tutosyoutu/WoW-AdonnES-App)
 
