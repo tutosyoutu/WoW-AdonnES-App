@@ -1,7 +1,7 @@
 {
-  "version": "1.0.11",
-  "release_date": "24/11/2026",
-  "title": "WoW AdonnES v1.0.11",
-  "changelog": "Blindaje de estabilidad en la ventana principal: limpieza atómica de layouts, inserción sin parpadeo y protección de hilos de escaneo contra movimientos bruscos de la ventana.",
-  "download_url": "https://github.com/tutosyoutu/WoW-AdonnES-App/releases/download/v1.0.11/WoW_AdonnES_v1.0.11_Update.zip"
+  "version": "1.0.12",
+  "release_date": "26/11/2026",
+  "title": "WoW AdonnES v1.0.12",
+  "changelog": "Escaneo inteligente de actualizaciones de addons en segundo plano al arrancar la app con efecto de brillo \u00e1mbar/azul en el bot\u00f3n 'Mis AddOns' y apertura instant\u00e1nea sin esperas.",
+  "download_url": "https://github.com/tutosyoutu/WoW-AdonnES-App/releases/download/v1.0.12/WoW_AdonnES_v1.0.12_Update.zip"
 }
